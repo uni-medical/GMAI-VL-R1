@@ -23,7 +23,6 @@ Our work builds upon and integrates ideas from several open-source projects:
 - [MM-Eureka-V0 (FanqingM/MM-Eureka-V0)](https://github.com/FanqingM/MM-Eureka-V0)
 - [open-r1-multimodal (EvolvingLMMs-Lab/open-r1-multimodal)](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
 - [MM-EUREKA (ModalMinds/MM-EUREKA)](https://github.com/ModalMinds/MM-EUREKA)  
-- [VLM-R1 (om-ai-lab/VLM-R1)](https://github.com/om-ai-lab/VLM-R1)
 
 We thank the authors of these projects for their valuable contributions to the community.
 
